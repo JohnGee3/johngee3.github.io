@@ -1,8 +1,18 @@
 p {
+	font-family: arial;
+	
+	
+
 	
 }
 
 .title{
+	text-align: center;
 	color: maroon;
 	text-transform: uppercase;
+	font-family: arial;
+	font-size: 65px;
 }
+
+
+
