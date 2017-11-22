@@ -3,5 +3,6 @@ p {
 }
 
 .title{
-	
+	color: maroon;
+	text-transform: uppercase;
 }
